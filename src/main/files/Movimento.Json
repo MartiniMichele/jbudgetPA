@@ -1,0 +1,80 @@
+[
+  {
+    "descrizione": "spesa auto",
+    "importo": 20.0,
+    "direzione": "ENTRATA",
+    "tagList": [
+      {
+        "nome": "Scuola",
+        "id": 1
+      },
+      {
+        "nome": "Auto",
+        "id": 2
+      },
+      {
+        "nome": "Spesa",
+        "id": 3
+      }
+    ],
+    "account": "banca",
+    "date": {
+      "year": 2020,
+      "month": 6,
+      "day": 27
+    },
+    "id": 1
+  },
+  {
+    "descrizione": "spesa scuola",
+    "importo": 10.0,
+    "direzione": "ENTRATA",
+    "tagList": [
+      {
+        "nome": "Scuola",
+        "id": 1
+      },
+      {
+        "nome": "Auto",
+        "id": 2
+      },
+      {
+        "nome": "Spesa",
+        "id": 3
+      }
+    ],
+    "account": "portafoglio",
+    "date": {
+      "year": 2020,
+      "month": 6,
+      "day": 27
+    },
+    "id": 2
+  },
+  {
+    "descrizione": "spesa pippo",
+    "importo": 15.0,
+    "direzione": "USCITA",
+    "tagList": [
+      {
+        "nome": "Scuola",
+        "id": 1
+      },
+      {
+        "nome": "Auto",
+        "id": 2
+      },
+      {
+        "nome": "Spesa",
+        "id": 3
+      }
+    ],
+    "account": "Pippo",
+    "date": {
+      "year": 2020,
+      "month": 6,
+      "day": 27
+    },
+    "id": 3
+  }
+]

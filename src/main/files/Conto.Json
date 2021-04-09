@@ -1,0 +1,25 @@
+[
+  {
+    "nome": "banca",
+    "bilancio": 120.0,
+    "tipo": "CREDITO",
+    "movementlist": [],
+    "id": 4
+  },
+  {
+    "nome": "portafoglio",
+    "bilancio": 310.0,
+    "tipo": "CREDITO",
+    "movementlist": [],
+    "id": 5
+  },
+  {
+    "restituito": 0.0,
+    "estinto": false,
+    "nome": "Pippo",
+    "bilancio": 235.0,
+    "tipo": "DEBITO",
+    "movementlist": [],
+    "id": 6
+  }
+]

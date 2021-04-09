@@ -1,0 +1,21 @@
+[
+  {
+    "nome": "carrozziere",
+    "tags": [
+      {
+        "nome": "Scuola",
+        "id": 1
+      },
+      {
+        "nome": "Auto",
+        "id": 2
+      },
+      {
+        "nome": "Spesa",
+        "id": 3
+      }
+    ],
+    "expected": 500.0,
+    "disponibile": 500.0
+  }
+]
